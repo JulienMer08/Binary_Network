@@ -1,0 +1,9 @@
+{
+	"batch_size": 64, 
+	"lr": 0.01, 
+	"epochs": 100, 
+	"exp_name": "results", 
+	"data_folder": "/home/pagay/pytorch_cifar10/", 
+	"optimizer": "grad",
+	"hidden_size": 100
+}
